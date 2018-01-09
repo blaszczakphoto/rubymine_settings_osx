@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Sublime Text copy" parent="TextMate">
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta L" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="shift meta L" />
+  </action>
+</keymap>
+

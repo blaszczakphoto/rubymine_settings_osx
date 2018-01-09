@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="bi" value="binding.pry" description="Adding binding.pry" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RHTML" value="true" />
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,5 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+</keymap>
