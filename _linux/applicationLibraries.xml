@@ -168,6 +168,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.3.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="attributed_object (v0.4.0, rbenv: 2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/attributed_object-0.4.0/lib" />
@@ -1014,6 +1022,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.4.0.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/lib" />
@@ -1022,6 +1038,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.2, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parser-2.4.0.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parser-2.4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/parser-2.4.0.2/bin" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.6, rbenv: 2.3.1) [gem]">
@@ -1048,6 +1074,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.11.3, rbenv: 2.3.1) [gem]">
@@ -1264,6 +1298,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v3.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rake (v10.4.2, rbenv: 2.3.1) [gem]">
@@ -1502,12 +1544,34 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/assets" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.52.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubocop-0.52.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubocop-0.52.1/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubocop-0.52.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubocop-0.52.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubocop-0.52.1/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubocop-0.52.1/bin" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.9.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby_dep (v1.5.0, rbenv: 2.3.1) [gem]">
@@ -1706,6 +1770,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.3.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.0/lib" />
       </SOURCES>
     </library>
     <library name="webrick (v1.4.2, rbenv: 2.5.0) [gem]">
