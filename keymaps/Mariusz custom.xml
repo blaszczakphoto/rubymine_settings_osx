@@ -1,4 +1,5 @@
 <keymap version="1" name="Mariusz custom" parent="Visual Studio">
+  <action id="ActivateTerminalToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
   </action>
@@ -14,6 +15,9 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f12" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
   </action>
