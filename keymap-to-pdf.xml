@@ -1,0 +1,6 @@
+<application>
+  <component name="KeymapToPDF">
+    <option name="keymapName" value="Mariusz custom" />
+    <option name="outputPath" value="$USER_HOME$" />
+  </component>
+</application>
