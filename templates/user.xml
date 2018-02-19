@@ -5,4 +5,10 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="by" value="byebug" description="Adding byebug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RHTML" value="true" />
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
