@@ -6,6 +6,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="ctrl alt separator" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.SetDefault" />
