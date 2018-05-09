@@ -1230,11 +1230,9 @@
     </library>
     <library name="eventmachine (v1.0.9.1, rbenv: 2.3.6) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.0.9.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/eventmachine-1.0.9.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.0.9.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/eventmachine-1.0.9.1/lib" />
       </SOURCES>
     </library>
@@ -1604,6 +1602,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.0.1, rbenv: 2.3.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/i18n-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/i18n-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.2, rbenv: 2.3.1) [gem]">
@@ -2324,6 +2330,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/puma-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.10, rbenv: 2.3.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/rack-1.6.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/rack-1.6.10/lib" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.9, rbenv: 2.3.6) [gem]">
@@ -3172,11 +3186,9 @@
     </library>
     <library name="thin (v1.5.1, rbenv: 2.3.6) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.5.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/thin-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.5.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.6/lib/ruby/gems/2.3.0/gems/thin-1.5.1/lib" />
       </SOURCES>
     </library>
