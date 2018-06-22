@@ -1468,6 +1468,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/foreman-0.84.0/lib" />
       </SOURCES>
     </library>
+    <library name="foreman (v0.85.0, rbenv: 2.3.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/foreman-0.85.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/foreman-0.85.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gdbm (v2.0.0, rbenv: 2.5.0) [gem]">
       <CLASSES />
       <SOURCES />
