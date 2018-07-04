@@ -4674,6 +4674,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/pry-byebug-3.4.3/lib" />
       </SOURCES>
     </library>
+    <library name="pry-remote (v0.1.8, rbenv: 2.4.3) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-remote-0.1.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-remote-0.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-remote-0.1.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-remote-0.1.8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-remote-0.1.8/bin" />
+      </excluded>
+    </library>
     <library name="psych (v2.0.17, rbenv: 2.3.1) [gem]">
       <CLASSES />
       <SOURCES />
@@ -6423,6 +6436,19 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/skinny-0.2.4/lib" />
       </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, rbenv: 2.4.3) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/slop-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/slop-3.6.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/slop-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/slop-3.6.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/slop-3.6.0/test" />
+      </excluded>
     </library>
     <library name="social-share-button (v1.1.0, rbenv: 2.4.3) [gem]" type="ruby">
       <CLASSES>
