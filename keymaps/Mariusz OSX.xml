@@ -1,7 +1,20 @@
 <keymap version="1" name="Mariusz OSX" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
   </action>
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoDeclaration">
@@ -11,10 +24,28 @@
   </action>
   <action id="ImplementMethods" />
   <action id="JumpToLastWindow" />
+  <action id="RecentChanges" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
   </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="alt f12" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
