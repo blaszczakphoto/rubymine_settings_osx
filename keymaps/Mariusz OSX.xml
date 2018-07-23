@@ -1,0 +1,14 @@
+<keymap version="1" name="Mariusz OSX" parent="Mac OS X 10.5+">
+  <action id="Generate.Missing.Members.ES6" />
+  <action id="Generate.Missing.Members.TypeScript" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="JumpToLastWindow" />
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+</keymap>
