@@ -1,4 +1,7 @@
 <keymap version="1" name="Mariusz OSX" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
+  </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoDeclaration">
@@ -8,6 +11,9 @@
   </action>
   <action id="ImplementMethods" />
   <action id="JumpToLastWindow" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
+  </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
