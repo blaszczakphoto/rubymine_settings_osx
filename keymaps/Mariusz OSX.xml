@@ -67,6 +67,9 @@
   <action id="ImplementMethods" />
   <action id="JumpToLastWindow" />
   <action id="RecentChanges" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="RunDashboard.CopyConfiguration" />
