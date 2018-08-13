@@ -61,6 +61,10 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -69,6 +73,7 @@
   </action>
   <action id="ImplementMethods" />
   <action id="JumpToLastWindow" />
+  <action id="NewScratchFile" />
   <action id="RecentChanges" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta i" />
