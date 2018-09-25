@@ -1071,6 +1071,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activeresource-3.0.10/examples" />
       </excluded>
     </library>
+    <library name="activeresource (v4.1.0, rbenv: 2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activeresource-4.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/activeresource-4.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activestorage (v5.2.0, rbenv: 2.2.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -8724,6 +8735,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rails-i18n-4.0.9/rails" />
       </excluded>
+    </library>
+    <library name="rails-observers (v0.1.5, rbenv: 2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rails-observers-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/rails-observers-0.1.5/lib" />
+      </SOURCES>
     </library>
     <library name="rails_layout (v1.0.41, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
