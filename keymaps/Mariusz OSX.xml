@@ -74,6 +74,7 @@
   <action id="ImplementMethods" />
   <action id="JumpToLastWindow" />
   <action id="NewScratchFile" />
+  <action id="OptimizeImports" />
   <action id="RecentChanges" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta i" />
