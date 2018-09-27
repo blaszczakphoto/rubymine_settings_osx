@@ -1,4 +1,8 @@
 <keymap version="1" name="Mariusz OSX" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
@@ -30,6 +34,7 @@
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCutLineEnd" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
@@ -54,6 +59,7 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoProject" />
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoDeclaration">
