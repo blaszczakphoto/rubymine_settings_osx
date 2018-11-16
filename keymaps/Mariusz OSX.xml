@@ -32,6 +32,8 @@
   </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Debug" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
@@ -74,23 +76,36 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods" />
   <action id="JumpToLastWindow" />
   <action id="NewScratchFile" />
+  <action id="NextSplitter" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="OptimizeImports" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="RecentChanges" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="Refresh" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Replace" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
   </action>
@@ -104,6 +119,7 @@
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>
+  <action id="Switcher" />
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
