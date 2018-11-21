@@ -77,7 +77,6 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="GotoRelated" />
-  <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -107,9 +106,6 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="Refresh" />
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift meta t" />
-  </action>
   <action id="Replace" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
