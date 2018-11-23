@@ -778,6 +778,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/active_model_serializers-0.10.7/.github" />
       </excluded>
     </library>
+    <library name="active_record_query_trace (v1.5.4, rbenv: 2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/active_record_query_trace-1.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/active_record_query_trace-1.5.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activeadmin (v2.0.0.alpha@1ae7e8, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3930,6 +3941,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/byebug-9.0.6/ext" />
+      </excluded>
+    </library>
+    <library name="callsite (v0.0.11, rbenv: 2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/callsite-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/callsite-0.0.11/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/callsite-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/callsite-0.0.11/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/callsite-0.0.11/spec" />
       </excluded>
     </library>
     <library name="capistrano (v3.5.0, rbenv: 2.3.1) [gem]" type="rubylib">
@@ -10852,6 +10879,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mechanize-2.7.5/examples" />
       </excluded>
     </library>
+    <library name="meta_request (v0.6.0, rbenv: 2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/meta_request-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/meta_request-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, rbenv: 2.3.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -15100,6 +15138,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/contrib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.5/example" />
       </excluded>
+    </library>
+    <library name="rack-contrib (v2.1.0, rbenv: 2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-contrib-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rack-contrib-2.1.0/lib" />
+      </SOURCES>
     </library>
     <library name="rack-cors (v1.0.2, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
