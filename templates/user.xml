@@ -11,4 +11,11 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="log" value="Rails.logger.debug(&quot;!!!!!!!!!!&quot;)" description="Rails logger" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HAML" value="true" />
+      <option name="RHTML" value="true" />
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
