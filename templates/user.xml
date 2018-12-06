@@ -18,4 +18,9 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="cy" value="data-cypress=&quot;$END$&quot;" description="data-cypress" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
