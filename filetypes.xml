@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.test.example" type=".env file" />
       <mapping pattern=".env.test" type=".env file" />
+      <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
     </extensionMap>
