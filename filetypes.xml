@@ -6,6 +6,7 @@
       <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping ext="jb" type="Ruby" />
     </extensionMap>
   </component>
 </application>
