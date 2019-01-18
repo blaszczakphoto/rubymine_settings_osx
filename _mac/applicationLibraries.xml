@@ -11138,6 +11138,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/factory_bot-4.11.0/lib" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v4.11.1, rbenv: 2.3.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_bot-4.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_bot-4.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot (v4.11.1, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -11222,6 +11233,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/factory_bot_rails-4.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v4.11.1, rbenv: 2.3.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_bot_rails-4.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/factory_bot_rails-4.11.1/lib" />
       </SOURCES>
     </library>
     <library name="factory_bot_rails (v4.11.1, rbenv: 2.5.3) [gem]" type="rubylib">
@@ -30136,6 +30158,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sdoc-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sdoc-1.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="seed_dump (v3.3.1, rbenv: 2.3.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/seed_dump-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/seed_dump-3.3.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/seed_dump-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/seed_dump-3.3.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/seed_dump-3.3.1/spec" />
       </excluded>
     </library>
     <library name="seed_dump (v3.3.1, rbenv: 2.5.3) [gem]" type="rubylib">
