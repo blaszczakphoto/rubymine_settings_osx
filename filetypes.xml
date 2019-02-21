@@ -4,12 +4,10 @@
       <mapping pattern=".env.test.example" type=".env file" />
       <mapping pattern=".env.test" type=".env file" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping ext="erb" type="PLAIN_TEXT" />
+      <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
-      <removed_mapping ext="erb" type="RHTML" />
       <mapping pattern="turnout" type="Ruby" />
       <mapping ext="jb" type="Ruby" />
       <removed_mapping pattern="turnout.rb" approved="true" type="PLAIN_TEXT" />
