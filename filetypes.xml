@@ -11,6 +11,7 @@
       <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping pattern="turnout" type="Ruby" />
       <mapping ext="jb" type="Ruby" />
+      <mapping pattern="database.yml.gitlab-tests" type="YAML" />
       <removed_mapping pattern="turnout.rb" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
