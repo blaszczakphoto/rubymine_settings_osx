@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping pattern=".env.test.example" type=".env file" />
       <mapping pattern=".env.test" type=".env file" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
       <mapping ext="tests" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping pattern="turnout" type="Ruby" />
