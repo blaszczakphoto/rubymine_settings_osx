@@ -1,7 +1,6 @@
 <templateSet group="user">
   <template name="bi" value="::Kernel.binding.pry" description="Adding binding.pry" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="RHTML" value="true" />
       <option name="RUBY" value="true" />
     </context>
   </template>
@@ -21,6 +20,13 @@
   <template name="cy" value="data-cypress=&quot;$END$&quot;" description="data-cypress" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bii" value="&lt;% ::Kernel.binding.pry %&gt;" description="Adding binding.pry" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HAML" value="true" />
+      <option name="HTML" value="true" />
+      <option name="RHTML" value="true" />
     </context>
   </template>
 </templateSet>
