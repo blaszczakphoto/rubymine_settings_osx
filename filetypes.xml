@@ -4,9 +4,9 @@
       <mapping pattern=".env.test.example" type=".env file" />
       <mapping pattern=".env.test" type=".env file" />
       <mapping pattern="yarn" type="Bash" />
-      <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping ext="tests" type="PLAIN_TEXT" />
@@ -16,6 +16,7 @@
       <mapping pattern="database.yml.*" type="YAML" />
       <mapping pattern="database.yml.gitlab-tests" type="YAML" />
       <removed_mapping pattern="turnout.rb" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
