@@ -95,7 +95,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
-  <action id="NewScratchFile" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt n" />
+  </action>
   <action id="NextSplitter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
