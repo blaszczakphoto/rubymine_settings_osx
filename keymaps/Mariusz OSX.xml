@@ -110,6 +110,7 @@
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="GotoRelated" />
+  <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -130,11 +131,11 @@
   </action>
   <action id="NextSplitter" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="OptimizeImports" />
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
   <action id="RecentChanges" />
   <action id="ReformatCode">
@@ -146,6 +147,9 @@
   </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Replace" />
   <action id="RunDashboard.CopyConfiguration" />
