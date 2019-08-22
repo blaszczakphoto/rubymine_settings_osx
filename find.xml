@@ -17,7 +17,7 @@
     <mask>*.erb*</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
-    <mask>*.erb</mask>
     <mask>*.rb</mask>
+    <mask>*.erb</mask>
   </component>
 </application>

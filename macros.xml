@@ -1,30 +1,23 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="search partial usages">
+    <macro name="search partial usage 1.1">
       <action id="CopyReference" />
       <action id="FindInPath" />
       <action id="EditorPaste" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorPreviousWord" />
-      <shortuct text="RIGHT" />
-      <action id="EditorBackSpace" />
       <action id="EditorPreviousWord" />
       <action id="EditorPreviousWord" />
       <action id="EditorPreviousWord" />
       <action id="EditorPreviousWord" />
-      <action id="EditorLineStartWithSelection" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLineEndWithSelection" />
       <action id="EditorBackSpace" />
-      <shortuct text="meta ENTER" />
+      <action id="EditorLineStart" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <shortuct text="shift RIGHT" />
+      <action id="EditorBackSpace" />
     </macro>
   </component>
 </application>

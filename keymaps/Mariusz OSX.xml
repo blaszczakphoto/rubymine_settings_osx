@@ -119,7 +119,7 @@
   <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods" />
   <action id="JumpToLastWindow" />
-  <action id="Macro.search partial usages">
+  <action id="Macro.search partial usage 1.1">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt p" />
   </action>
   <action id="MoveLineDown">
