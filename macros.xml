@@ -19,5 +19,14 @@
       <shortuct text="shift RIGHT" />
       <action id="EditorBackSpace" />
     </macro>
+    <macro name="rm lines with selected text">
+      <action id="EditorCopy" />
+      <action id="Find" />
+      <action id="EditorPaste" />
+      <action id="EditorLineStart" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+    </macro>
   </component>
 </application>
