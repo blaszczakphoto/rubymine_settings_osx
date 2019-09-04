@@ -35082,6 +35082,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sneakers-2.7.0/examples" />
       </excluded>
     </library>
+    <library name="sortable-for-rails (v1.0.1@220f35, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/bundler/gems/sortable-for-rails-220f356eb599/test" />
+      </excluded>
+    </library>
     <library name="spreadsheet (v1.1.7, rbenv: 2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
