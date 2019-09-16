@@ -28,5 +28,12 @@
       <action id="EditorBackSpace" />
       <action id="EditorBackSpace" />
     </macro>
+    <macro name="find in path and paste clipboard">
+      <action id="FindInPath" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPaste" />
+      <shortuct text="DOWN" />
+      <action id="EditorBackSpace" />
+    </macro>
   </component>
 </application>
