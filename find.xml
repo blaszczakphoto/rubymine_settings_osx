@@ -12,7 +12,6 @@
     <mask>*.mxml</mask>
     <mask>*.jsx</mask>
     <mask>*.css</mask>
-    <mask>*.html.erb</mask>
     <mask>*.scss</mask>
     <mask>*.erb*</mask>
     <mask>*.js</mask>
@@ -20,5 +19,6 @@
     <mask>*test.rb</mask>
     <mask>*.erb</mask>
     <mask>*.rb</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
