@@ -18,7 +18,7 @@
     <mask>*.yml</mask>
     <mask>*test.rb</mask>
     <mask>*.erb</mask>
-    <mask>*.rb</mask>
     <mask>*.html.erb</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
