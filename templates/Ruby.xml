@@ -1,0 +1,7 @@
+<templateSet group="Ruby">
+  <template name="disable_sti" value="self.inheritance_column = :_type_disabled" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
