@@ -191,4 +191,7 @@
   <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt u" />
+  </action>
 </keymap>
