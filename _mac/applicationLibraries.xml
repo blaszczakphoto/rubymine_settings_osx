@@ -34155,6 +34155,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/wkhtmltopdf-binary-0.12.4/bin" />
       </excluded>
     </library>
+    <library name="wkhtmltopdf-binary (v0.12.5, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/wkhtmltopdf-binary-0.12.5/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/wkhtmltopdf-binary-0.12.5/bin" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/wkhtmltopdf-binary-0.12.5/bin" />
+      </excluded>
+    </library>
     <library name="word_wrap (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
