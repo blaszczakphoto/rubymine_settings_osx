@@ -92,6 +92,9 @@
   </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl b" />
+  </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
   </action>
