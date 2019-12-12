@@ -5,18 +5,16 @@
       <mapping pattern=".env.test.example" type=".env file" />
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern="yarn" type="Bash" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping ext="tests" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping pattern="lint" type="Ruby" />
-      <mapping pattern="turnout" type="Ruby" />
       <mapping pattern="open-in-rubymine" type="Ruby" />
+      <mapping pattern="turnout" type="Ruby" />
       <mapping ext="jb" type="Ruby" />
       <mapping pattern="database.yml.*" type="YAML" />
       <mapping pattern="database.yml.gitlab-tests" type="YAML" />
