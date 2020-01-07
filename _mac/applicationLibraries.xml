@@ -2750,6 +2750,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/hashdiff-1.0.0/spec" />
       </excluded>
     </library>
+    <library name="hashie (v3.6.0, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/hashie-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/hashie-3.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/hashie-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/hashie-3.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/hashie-3.6.0/spec" />
+      </excluded>
+    </library>
     <library name="her (v1.0.3, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3149,6 +3165,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/2.6.0/json/add" />
       </excluded>
     </library>
+    <library name="json-schema (v2.8.1, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/json-schema-2.8.1/resources" />
+      </excluded>
+    </library>
     <library name="kaminari (v1.1.1, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3389,6 +3421,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/mimemagic-0.3.3/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/mimemagic-0.3.3/script" />
       </excluded>
+    </library>
+    <library name="mini-apivore (v0.1.4, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/mini-apivore-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/mini-apivore-0.1.4/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/mini-apivore-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/mini-apivore-0.1.4/data" />
+      </SOURCES>
     </library>
     <library name="mini_mime (v1.0.1, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
