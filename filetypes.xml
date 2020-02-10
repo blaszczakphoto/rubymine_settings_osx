@@ -14,6 +14,7 @@
       <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping pattern="lint" type="Ruby" />
       <mapping pattern="open-in-rubymine" type="Ruby" />
+      <mapping pattern="create-test-file" type="Ruby" />
       <mapping pattern="turnout" type="Ruby" />
       <mapping ext="jb" type="Ruby" />
       <mapping pattern="database.yml.*" type="YAML" />
