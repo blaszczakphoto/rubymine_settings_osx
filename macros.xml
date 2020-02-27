@@ -35,5 +35,10 @@
       <shortuct text="DOWN" />
       <action id="EditorBackSpace" />
     </macro>
+    <macro name="search partial usages(regexp, render) 2.0">
+      <action id="FindInPath" />
+      <action id="EditorPaste" />
+      <action id="EditorBackSpace" />
+    </macro>
   </component>
 </application>

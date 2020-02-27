@@ -125,6 +125,9 @@
   <action id="Macro.find in path and paste clipboard">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt back_slash" />
   </action>
+  <action id="Macro.search partial usages(regexp, render) 2.0">
+    <keyboard-shortcut first-keystroke="shift ctrl meta semicolon" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
