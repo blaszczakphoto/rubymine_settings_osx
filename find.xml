@@ -19,7 +19,7 @@
     <mask>*.scss</mask>
     <mask>*.js.erb</mask>
     <mask>*.rb</mask>
-    <mask>*.html.erb</mask>
     <mask>*.yml</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
