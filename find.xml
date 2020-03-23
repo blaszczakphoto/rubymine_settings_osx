@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -19,7 +21,7 @@
     <mask>*.scss</mask>
     <mask>*.js.erb</mask>
     <mask>*.rb</mask>
-    <mask>*.html.erb</mask>
     <mask>*.yml</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
