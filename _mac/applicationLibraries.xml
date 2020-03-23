@@ -7679,6 +7679,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/colorize-0.8.1/test" />
       </excluded>
     </library>
+    <library name="colorize (v0.8.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/test" />
+      </excluded>
+    </library>
     <library name="commander-fastlane (v4.4.6, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18344,12 +18360,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.9/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.9/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.9/lib" />
