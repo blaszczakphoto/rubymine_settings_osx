@@ -1,21 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.test" type=".env file" />
       <mapping pattern=".env.test.example" type=".env file" />
       <mapping pattern=".env.example" type=".env file" />
+      <mapping pattern=".env.test" type=".env file" />
       <mapping pattern="yarn" type="Bash" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".bundle-config" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="tests" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
-      <mapping pattern="lint" type="Ruby" />
+      <removed_mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="open-in-rubymine" type="Ruby" />
       <mapping pattern="create-test-file" type="Ruby" />
       <mapping pattern="turnout" type="Ruby" />
+      <mapping pattern="lint" type="Ruby" />
       <mapping ext="jb" type="Ruby" />
       <mapping pattern="database.yml.*" type="YAML" />
       <mapping pattern="database.yml.gitlab-tests" type="YAML" />
